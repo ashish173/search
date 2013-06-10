@@ -5,7 +5,7 @@ searching, can descend into directories, tar and zip files,
 compressed files, etc, along with searching for blocks of lines
 within files that contain the specified patterns, which can be
 useful for searching things like XML files and mail files.
-
+This is an edit made for check
 For more information see http://www.exsolent.com/~israel/search.html
 or run:
     search.py --help
